@@ -1,2 +1,1 @@
-# asmohov.github.io
-website for Aleksey S Mohov
+#website for Aleksey S Mohov
